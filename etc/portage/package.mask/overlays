@@ -1,0 +1,4 @@
+*/*::gnome              # Used to test the latest gnome packages.
+*/*::ixit               # Install usbmuxd, to connect to ios devices.
+*/*::jorgicio           # Install lollypop.
+*/*::sabayon            # Install broadcom-sta compatile with latest kernels.
