@@ -1,0 +1,3 @@
+# The current broadcom-sta driver in portage does not work with the 
+# latest kernels.
+net-wireless/broadcom-sta::sabayon
