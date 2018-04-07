@@ -1,0 +1,2 @@
+dev-libs/libusb abi_x86_32
+virtual/libusb abi_x86_32

@@ -1,0 +1,2 @@
+virtual/jpeg abi_x86_32 static-libs
+media-libs/jpeg abi_x86_32 static-libs

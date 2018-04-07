@@ -1,0 +1,2 @@
+virtual/ffmpeg gsm jpeg2k -libav opus speex theora threads
+media-video/ffmpeg aacplus amr amrenc bluray bs2b cdio celt faac fdk flite fontconfig frei0r fribidi gme gnutls gsm jpeg2k libass libcaca libsoxr libv4l lzma modplug openal openssl opus oss quvi schroedinger speex ssh theora twolame v4l vpx wavpack webp x265 zvbi
